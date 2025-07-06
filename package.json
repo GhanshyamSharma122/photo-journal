@@ -1,0 +1,20 @@
+{
+  "name": "photo-journal",
+  "version": "1.0.0",
+  "description": "a simple ai based photo journal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "photos"
+  ],
+  "author": "ghanshyam sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
